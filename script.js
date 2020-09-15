@@ -1,3 +1,5 @@
+const cellElements = document.querySelectorAll('[data-cell');
+
 // let origBoard;
 // const huPlayer = 'O';
 // const aiPlayer = 'X';
